@@ -37,6 +37,7 @@
     background-color: #1A1B21;
     height: 300px;
     width: 450px;
+    margin-left: 25px;
 
 }
 
@@ -53,8 +54,13 @@ width: 100px;
     height: 100px;
     background-color: #161619;
     border-radius: 0 0 10px 10px;
+    margin-left: 25px;
 }
 
 .text {
 
+}
+
+.github {
+    
 }
