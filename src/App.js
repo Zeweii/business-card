@@ -4,19 +4,21 @@ import './App.css';
 export default function App() {
     return (
         <div className="App">
-        <div className="box">
-            <img className="image" src="../public/photo.png" />
-        
-        <div className="description-box" >
-        </div>      
+                <div className="box">
+                        <div className="content">
+                                <img className="image" src="/photo.png" />
+                
+                                <div className="description-box" >
+                                </div>      
 
-        <div className="media-footer">
-            <div className="github"></div>
-        </div>
+                                <div className="media-footer">
+                                        <div className="github"></div>
+                                </div>
+                        </div>
 
 
+                </div>
         </div>
-        </div>
-);
+        );
 }
     

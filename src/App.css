@@ -9,8 +9,8 @@
 }
 
 .box {
-    width: 500px;
-    height: 800px;
+    width: 600px;
+    height: 900px;
     background-color: #23252C;
     justify-content: center;
     align-items: center;
@@ -33,16 +33,25 @@
 
 }
 
+.content {
+    margin-left: 50px;
+}
+
 .description-box {
     background-color: #1A1B21;
-    height: 300px;
-    width: 450px;
-    margin-left: 25px;
+    height: 400px;
+    width: 350px;
+    margin-left: 75px;
 
 }
 
 .image {
-width: 100px;
+    margin-top:  50px;
+    margin-left: 75px;
+    width: 350px;
+    height: 300px;
+    border-radius: 10px 10px 0 0;
+    display: block;
 }
 
 .media-buttons {
@@ -50,11 +59,11 @@ width: 100px;
 }
 
 .media-footer {
-    width: 450px;
+    width: 350px;
     height: 100px;
     background-color: #161619;
     border-radius: 0 0 10px 10px;
-    margin-left: 25px;
+    margin-left: 75px;
 }
 
 .text {
