@@ -21,11 +21,23 @@
 
 }
 
-.card-title {
-
+.card-name{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 600;
+    padding-top: 30px;
+    font-family: sans-serif;
+    color: #FFFFFF;
 }
 
 .card-occupation {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 15px;
+    font-weight: 300;
+    padding-top: 5px;
+    font-family: sans-serif;
+    color: #F3BF99;
 
 }
 
@@ -64,6 +76,10 @@
     background-color: #161619;
     border-radius: 0 0 10px 10px;
     margin-left: 75px;
+}
+
+.name {
+
 }
 
 .text {
