@@ -25,6 +25,7 @@
     margin-top: 0px;
     margin-bottom: 0px;
     font-weight: 600;
+    font-size: 30px;
     padding-top: 30px;
     font-family: sans-serif;
     color: #FFFFFF;
@@ -51,13 +52,82 @@
     color: #FFFFFF;
 }
 
+.card-email {
+    height: 40px;
+    width: 125px;
+    background-color: #FFFFFF;
+    margin-top: 0px;
+    margin-left: 40px;
+    border-radius: 6px;
+    font-size: 20px;
+    padding-top: 7px;
+}
+
+.card-linkedin {
+    height: 40px;
+    width: 125px;
+    background-color: #5093E2;
+    margin-top: 0px;
+    margin-left: 20px;
+    border-radius: 6px;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding-top: 7px;
+}
+
+.card-container {
+    display: flex;
+    margin-top: 20px;
+}
+
+.card-about {
+    color: #FFFFFF;
+    font-size: 20px;
+    justify-content: left;
+    font-weight: 600;
+    width: 0px;
+    margin-left:38px;
+    margin-top: 10px;
+}
+
+.about-text {
+    font-size: 14px;
+    color: #FFFFFF;
+    font-weight: 100;
+    margin-left: 40px;
+    margin-top: 5px;
+    max-width: 280px;
+    text-align: left;
+    
+}
+
+.interests-text {
+    font-size: 14px;
+    color: #FFFFFF;
+    font-weight: 100;
+    margin-left: 40px;
+    margin-top: 5px;
+    max-width: 280px;
+    text-align: left;
+
+}
+
+.card-interests {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 600;
+    width: 0px;
+    margin-left:38px;
+    /* margin-top: 130px; */
+}
+
 .content {
     margin-left: 50px;
 }
-
+ 
 .description-box {
     background-color: #1A1B21;
-    height: 400px;
+    height: 475px;
     width: 350px;
     margin-left: 75px;
 
@@ -72,26 +142,11 @@
     display: block;
 }
 
-.media-buttons {
-
-}
-
 .media-footer {
     width: 350px;
-    height: 100px;
+    height: 40px;
     background-color: #161619;
     border-radius: 0 0 10px 10px;
     margin-left: 75px;
 }
 
-.name {
-
-}
-
-.text {
-
-}
-
-.github {
-    
-}
